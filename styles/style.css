@@ -3,3 +3,15 @@ h1 {color: lightsalmon;
     font-size: 48px;
     font-family: 'Courier New', Courier, monospace;
     }
+
+
+    html{
+        background-color: lightslategray;
+    }
+    body{
+        width: 800px;
+        margin: 0 auto;
+        background-color: lightsteelblue;
+        padding: 0 20px 20px 20px;
+        border: 5 px darkgoldenrod
+    }
